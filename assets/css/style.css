@@ -12,12 +12,14 @@
 
 *{
   font-family: 'Tajawal', sans-serif !important;
+  font-weight: bolder;
 }
 
 body {
   font-family: "Tajawal" , sans-serif  ;
   color: #444444;
   direction: rtl;
+  font-weight: bolder;
 }
 
 a {
@@ -127,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo {
   position: relative;
-  right: -210px;
+  right: -240px;
   font-size: 13px;
   margin: 0;
   padding: 0;
