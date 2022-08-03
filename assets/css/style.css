@@ -8,12 +8,14 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-@import url(../font/Cairo-VariableFont_wght.ttf);
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
 *{
-  font-family: 'Cairo' !important;
+  font-family: 'Tajawal', sans-serif !important;
 }
+
 body {
-  font-family: "cairo", sans-serif;
+  font-family: "Tajawal" , sans-serif  ;
   color: #444444;
   direction: rtl;
 }
@@ -125,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo {
   position: relative;
-  right: -290px;
+  right: -210px;
   font-size: 13px;
   margin: 0;
   padding: 0;
